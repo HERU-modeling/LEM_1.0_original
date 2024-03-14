@@ -1,0 +1,12 @@
+NYC: 60 MIN
+
+MIA: 55 MIN
+
+SEA: 65 MIN
+
+ATL: 75 MIN
+
+BAL: 65 MIN
+
+LA:
+
